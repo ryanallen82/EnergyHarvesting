@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Measurement and Survey of Energy Harvesting using
+  Human Locomotion
+message: >-
+  Please cite if you use any of the code or data
+  present in this repository
+type: software
+authors:
+  - given-names: Anil
+    family-names: Dua
+    email: adua9@gatech.edu
+    affiliation: Georgia Institute of Technology
+  - given-names: Haolong
+    family-names: Yan
+    email: hyan88@gatech.edu
+    affiliation: Georgia Institute of Technology
+  - given-names: Ryan
+    family-names: Allen
+    email: rallen79@gatech.edu
+    affiliation: Georgia Institute of Technology
+  - given-names: Steven
+    family-names: Sadler
+    email: ssadler8@gatech.edu
+    affiliation: Georgia Institute of Technology
