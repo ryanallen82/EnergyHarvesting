@@ -8,4 +8,4 @@
 
 This repository holds the data, scripts, and figures used in the paper Measurement and 
 Survey of Energy Harvesting using Human Locomotion (2022) authored by Anil Dua, Haolong Yan, Ryan Allen,
-and Steven Sadler. The paper can be found at (add link here). 
+and Steven Sadler. The paper can be found <a href="https://github.com/ryanallen82/EnergyHarvesting/blob/main/Energy_Harvesting.pdf">here</a>. 
